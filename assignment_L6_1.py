@@ -74,3 +74,4 @@ for idx, clf, tt in zip(product(range(3), repeat=2),
 x_min, x_max = X[:, 0].min() - 1, X_new[:, 0].max() + 1
 
 plt.show()
+#!!7
